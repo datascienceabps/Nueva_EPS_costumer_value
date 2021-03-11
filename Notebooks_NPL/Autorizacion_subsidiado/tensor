@@ -1,0 +1,19 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "NUEVA EPS: Autorizacion_subsidiado",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/datascienceabps/Nueva_EPS_costumer_value/main/Notebooks_NPL/Autorizacion_subsidiado/_tensor00_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/datascienceabps/Nueva_EPS_costumer_value/main/Notebooks_NPL/Autorizacion_subsidiado/_tensor00_metadata.tsv"
+      
+
+
+
+
+
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "NUEVA EPS: Traslado Subsidiado",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/datascienceabps/Nueva_EPS_costumer_value/main/Notebooks_NPL/Traslado%20Subsidiado/_tensor00_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/datascienceabps/Nueva_EPS_costumer_value/main/Notebooks_NPL/Traslado%20Subsidiado/_tensor00_metadata.tsv"
+      
+
+
+
+
+    }
+  ]
+}

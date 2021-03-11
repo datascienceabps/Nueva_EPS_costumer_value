@@ -1,0 +1,16 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "NUEVA EPS:Translado_contributivo",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/datascienceabps/Nueva_EPS_costumer_value/main/Notebooks_NPL/Translado_contributivo/_tensor00_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/datascienceabps/Nueva_EPS_costumer_value/main/Notebooks_NPL/Translado_contributivo/_tensor00_metadata.tsv"
+      
+      
+
+    }
+  ]
+}
